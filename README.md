@@ -1,5 +1,6 @@
 # E-commerce-Sales-Analysis
-E-commerce Sales Analysis using Power BI, SQL
+E-commerce Sales Analysis using Power BI, SQL,Excel
+
 🔹 Project Overview
 
 This project analyzes Year-to-Date (YTD) Ecommerce Sales across categories, products, regions, and shipping types. Using Power BI, the dashboard provides insights into revenue, profit, and sales performance to support data-driven decision-making.
