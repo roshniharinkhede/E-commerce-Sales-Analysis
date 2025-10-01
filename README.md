@@ -60,21 +60,21 @@ Second Class & First Class: ~34% combined.
 
 🔹 Recommendations
 
-Product Strategy:
+1.Product Strategy:
 
 Increase focus on top-performing stationery items.
 
 Consider phasing out or promoting underperforming electronics (Cisco, Xerox, Lexmark).
 
-Regional Expansion:
+2.Regional Expansion:
 
 Boost marketing in South region to balance sales distribution.
 
-Profit Optimization:
+3.Profit Optimization:
 
 Leverage high-margin furniture sales with bundled offers.
 
-Shipping Efficiency:
+4.Shipping Efficiency:
 
 Improve express shipping options (First Class, Second Class) to attract high-value customers.
 
